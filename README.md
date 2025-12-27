@@ -15,14 +15,14 @@ El análisis busca responder preguntas como:
 ---
 
 ## 📂 Estructura del Repositorio
-
+```bash
 Caso_Aprendizaje_No_Supervisado/
 │
 ├── AprendizajeNoSupervisado.docx.pdf # Documento de referencia / marco del caso
 ├── caso_aprendizaje_no_supervisado.ipynb # Notebook - análisis principal (EDA + clustering)
 ├── Informe_Customer_Personality_Analysis.docx # Informe final con resultados e interpretación
 └── README.md
-
+```
 ---
 ## 🧑‍💻 ¿Qué contiene el análisis?
 
@@ -47,11 +47,9 @@ El informe complementa con conclusiones y recomendaciones prácticas basadas en 
   ```bash
   pip install pandas numpy matplotlib seaborn scikit-learn
 ---
-
-##👤 Autor
+## 👤 Autor
 
 Juan Manuel Arredondo Londoño
 Estudiante de Ingeniería Industrial – Análisis y Ciencia de Datos
 📍 Medellín – Colombia
-
 ---
